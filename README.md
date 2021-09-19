@@ -3,8 +3,8 @@
 ## I Completed M.Tech in CSE Information Security.
 
 - 🌱 I’m currently learning and looking for Job in Cyber security, Java.
-- 👀 I am interested to learn new things everday!
-- 🥅 Today's Goal : I want to be a better person than yesterday.
+- 👀 I am learning Splunk, Burp Suite and Networking. 
+-    Exploring OWASP attacks in Port Swiggers lab. 
 
 ### Connect with me:
 
