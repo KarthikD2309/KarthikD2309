@@ -1,7 +1,5 @@
 ### Hi there, I'm Karthik 👋
-<img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" />
 
-**Talking about Personal Stuffs:**
 
 ## I Completed M.Tech in CSE Information Security.
 
